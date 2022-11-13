@@ -1,0 +1,13 @@
+p {
+    color: #75c3f7;
+  }
+
+.hello {
+    /* only changes the color of the classes with "hello" */
+    color: #befe9f;
+  }
+
+#world {
+    /* world is an id so it is unique, ids take priority */
+    color: #cfa3df;
+  }
